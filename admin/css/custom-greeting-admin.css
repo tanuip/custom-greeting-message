@@ -1,0 +1,16 @@
+/* custom-greeting-admin.css */
+
+.wrap h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 50%;
+    padding: 5px;
+    font-size: 1em;
+}
+
+.form-table th {
+    width: 200px;
+}
